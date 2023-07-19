@@ -5,9 +5,15 @@
 <h1 align="center">Hey!! 👋, I'm Aayush</h1>
 <h3 align="center">A passionate developer from India trying to learn new things in dev.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meaayush&label=Profile%20views&color=0e75b6&style=flat" alt="meaayush" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=meaayush&label=Profile%20views&color=0e75b6&style=flat" alt="meaayush" /> </p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meaayush" alt="meaayush" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/maibhiaayush" target="blank"><img src="https://img.shields.io/twitter/follow/maibhiaayush?logo=twitter&style=for-the-badge" alt="maibhiaayush" /></a> </p>
 
 - 🔭 I’m currently working on **a MERN stack project**
 
