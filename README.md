@@ -5,7 +5,7 @@
 <h1 align="center">Hey!! 👋, I'm Aayush</h1>
 <h3 align="center">A passionate developer from India trying to learn new things in dev.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meaayush&label=Profile%20views&color=0e75b6&style=flat" alt="meaayush" /> </p>
+<--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=meaayush&label=Profile%20views&color=0e75b6&style=flat" alt="meaayush" /> </p> --->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meaayush" alt="meaayush" /></a> </p>
 
