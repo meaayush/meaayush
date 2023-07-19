@@ -11,7 +11,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meaayush" alt="meaayush" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meaayush" alt="meaayush" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/maibhiaayush" target="blank"><img src="https://img.shields.io/twitter/follow/maibhiaayush?logo=twitter&style=for-the-badge" alt="maibhiaayush" /></a> </p>
 
