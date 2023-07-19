@@ -2,7 +2,7 @@
 
 # 👋 Hello there! I'm [Your Name]
 
-[![GitHub followers](https://img.shields.io/github/followers/YourUsername?style=social)](https://github.com/YourUsername)
+[![GitHub followers](https://img.shields.io/github/followers/meaayush?style=social)](https://github.com/YourUsername)
 [![Twitter Follow](https://img.shields.io/twitter/follow/YourTwitterUsername?style=social)](https://twitter.com/YourTwitterUsername)
 
 Welcome to my GitHub profile! 😄 I'm a [Your Profession/Interests], passionate about [Your Interests/Hobbies]. Here you'll find some of my personal projects and contributions to the open-source community.
