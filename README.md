@@ -7,9 +7,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=meaayush&label=Profile%20views&color=0e75b6&style=flat" alt="meaayush" /> </p>
 
+<br/>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+<br/> <br/>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meaayush" alt="meaayush" /></a> </p> -->
 
